@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-demo-repo
+  annotations:
+    github.com/project-slug: NRisticHtec/backstage-demo-repo
+spec:
+  type: other
+  lifecycle: unknown
