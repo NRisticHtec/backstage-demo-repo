@@ -6,4 +6,5 @@ metadata:
     github.com/project-slug: NRisticHtec/backstage-demo-repo
 spec:
   type: other
-  lifecycle: NRisticHtec
+  lifecycle: unknown
+  owner: NRisticHtec
