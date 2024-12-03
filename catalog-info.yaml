@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  description: This is demo repo of backstage
   name: backstage-demo-repo
   annotations:
     github.com/project-slug: NRisticHtec/backstage-demo-repo
